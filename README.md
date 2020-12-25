@@ -1,1 +1,3 @@
-# 2020NitrosoMechanisms
+This repository contains the codes used in building our interactive chemogenomic web app, https://ggshiny.shinyapps.io/2020NitrosoMechanisms/. The web app allows one to perform several data visualizations, including Gene Ontology (GO) enrichment, fitness defect score, scatterplots, and co-fitness and co-inhibition rankings. We used this application to visualize the results from our genome-wide experiments and to define genes and genetic pathways that were either shared between experiments or unique to a particular treatment.
+The repository contains all the necessary files and codes to run the shiny app on a local version of R or Rstudio.
+All that is needed is to download the files and unpack them, making sure that the necessary libraries are installed.
